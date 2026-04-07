@@ -1,7 +1,12 @@
 aid: calatlantic-group
-url: https://raw.githubusercontent.com/api-evangelist/calatlantic-group/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/calatlantic-group/refs/heads/main/apis.yml
 modified: '2026-03-23'
 apis: []
 common:
   - type: Website
     url: https://www.calatlantic-group.com
+description: >-
+  CalAtlantic Group was one of the largest homebuilders in the United States, building
+  single-family attached and detached homes across multiple states before being acquired
+  by Lennar.
