@@ -1,9 +1,8 @@
 aid: calatlantic-group
 name: CalAtlantic Group
-url: >-
+url: ''
 x-api-posture: no-product-api
-x-api-posture-basis: observed
-  https://raw.githubusercontent.com/api-evangelist/calatlantic-group/refs/heads/main/apis.yml
+x-api-posture-basis: observed https://raw.githubusercontent.com/api-evangelist/calatlantic-group/refs/heads/main/apis.yml
 deliveryModel:
   model: unknown
   open_source: false
@@ -29,37 +28,36 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/calatlantic-group.png
 type: Index
 tags:
-  - Construction
-  - Defunct
-  - Home Builders
-  - Real-Estate
-  - Residential
+- Construction
+- Defunct
+- Home Builders
+- Real-Estate
+- Residential
 tags_raw:
-  - Construction
-  - Defunct
-  - Homebuilders
-  - Real Estate
-  - Residential
+- Construction
+- Defunct
+- Homebuilders
+- Real Estate
+- Residential
 created: '2024-01-01'
-modified: '2026-04-23'
+modified: '2026-09-15'
 specificationVersion: '0.23'
-description: >-
-  CalAtlantic Group was a U.S. homebuilder formed on October 1, 2015 through the
-  merger of Standard Pacific Homes and Ryland Homes. Headquartered in Arlington,
-  Virginia, it became the fourth largest homebuilder in the United States before
-  being acquired by Lennar Corporation in February 2018, which made Lennar the
-  nation's largest homebuilder. CalAtlantic no longer operates as an independent
+description: CalAtlantic Group was a U.S. homebuilder formed on October 1, 2015 through the merger of
+  Standard Pacific Homes and Ryland Homes. Headquartered in Arlington, Virginia, it became the fourth
+  largest homebuilder in the United States before being acquired by Lennar Corporation in February 2018,
+  which made Lennar the nation's largest homebuilder. CalAtlantic no longer operates as an independent
   entity and does not offer public APIs or developer resources.
 apis: []
 common:
-  - type: LinkedIn
-    url: https://www.linkedin.com/company/calatlantic-homes
-  - type: Website
-    url: https://www.calatlantic-group.com
-  - type: Wikipedia
-    url: https://en.wikipedia.org/wiki/CalAtlantic_Homes
-  - type: Acquirer
-    url: https://www.lennar.com/
+- type: LinkedIn
+  url: https://www.linkedin.com/company/calatlantic-homes
+- type: Website
+  url: https://www.calatlantic-group.com
+- type: Wikipedia
+  url: https://en.wikipedia.org/wiki/CalAtlantic_Homes
+- type: Acquirer
+  url: https://www.lennar.com/
 maintainers:
-  - FN: Kin Lane
-    email: kin@apievangelist.com
+- FN: Kin Lane
+  email: kin@apievangelist.com
+x-status: defunct
