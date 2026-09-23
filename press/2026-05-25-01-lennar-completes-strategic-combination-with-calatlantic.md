@@ -1,7 +1,9 @@
 ---
 title: Lennar Completes Strategic Combination with CalAtlantic
 url: https://www.prnewswire.com/news-releases/lennar-completes-strategic-combination-with-calatlantic-300597384.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"CalAtlantic Group" press release artificial intelligence'
 position: 1
 source: serpapi-google

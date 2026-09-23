@@ -1,7 +1,9 @@
 ---
 title: Lennar Makes Deal for CalAtlantic as Home Builders Face ...
 url: https://www.nytimes.com/2017/10/30/business/dealbook/lennar-croporation-calatlantic-group.html
-date: '2026-05-25'
+published: '2017-10-30'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"CalAtlantic Group" press release artificial intelligence'
 position: 2
 source: serpapi-google

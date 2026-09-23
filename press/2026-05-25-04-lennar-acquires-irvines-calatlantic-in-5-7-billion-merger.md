@@ -1,7 +1,9 @@
 ---
 title: Lennar acquires Irvine's CalAtlantic in $5.7 billion merger
 url: https://www.presstelegram.com/2017/10/30/lennar-acquires-irvines-calatlantic-in-9-3-billion-merger/
-date: '2026-05-25'
+published: '2017-10-30'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"CalAtlantic Group" press release artificial intelligence'
 position: 4
 source: serpapi-google
